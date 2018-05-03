@@ -1,0 +1,2 @@
+# sdncoin
+New super coin
